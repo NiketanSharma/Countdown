@@ -8,7 +8,7 @@ This project is a simple animated countdown timer built using HTML, CSS, and Jav
 - Smooth transitions using CSS animations
 - A final message displayed after the countdown
 - A "Replay" button to restart the countdown
-
+  
 ## Technologies Used
 - HTML
 - CSS
